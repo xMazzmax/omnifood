@@ -1,0 +1,16 @@
+{
+  "icons": [
+    {
+      "src": "img/favicon-192.ong",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "maskable"
+    },
+    {
+      "src": "img/favicon-512",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "maskable"
+    }
+  ]
+}
